@@ -1,0 +1,8 @@
+F:\Code\Diaplayer\Win\bin\Debug\Win.exe
+F:\Code\Diaplayer\Win\bin\Debug\Win.pdb
+F:\Code\Diaplayer\Win\obj\x86\Debug\Win.csprojResolveAssemblyReference.cache
+F:\Code\Diaplayer\Win\obj\x86\Debug\Win.Main.resources
+F:\Code\Diaplayer\Win\obj\x86\Debug\Win.Properties.Resources.resources
+F:\Code\Diaplayer\Win\obj\x86\Debug\Win.csproj.GenerateResource.Cache
+F:\Code\Diaplayer\Win\obj\x86\Debug\Win.exe
+F:\Code\Diaplayer\Win\obj\x86\Debug\Win.pdb
